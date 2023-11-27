@@ -3,7 +3,7 @@ package se.lexicon;
 public class Ex1IntArray {
     public static void main(String[] args){
         //Declare an array
-        int[] intArray={11, 23, 49};
+        int[] intArray={11, 23, 49, 45, 67};
 
         //Print the array elements
         System.out.println("Array elements are:");
