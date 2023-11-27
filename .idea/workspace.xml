@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21ae7b44-3299-464c-8158-c235b050ebd8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex2IndexOfArray">
+  <component name="RunManager" selected="Application.Ex3StringSort">
     <configuration name="Ex1IntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex1IntArray" />
       <module name="JavaArray" />
@@ -72,8 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex3StringSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex3StringSort" />
+      <module name="JavaArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3StringSort" />
         <item itemvalue="Application.Ex2IndexOfArray" />
         <item itemvalue="Application.Ex1IntArray" />
       </list>
@@ -87,11 +102,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701081801730</updated>
-      <workItem from="1701081802723" duration="4901000" />
+      <workItem from="1701081802723" duration="6065000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/se/lexicon/Ex3StringSort.java</url>
+          <line>5</line>
+          <properties class="se.lexicon.Ex3StringSort" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
