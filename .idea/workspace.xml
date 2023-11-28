@@ -46,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex10MultiplicationTable">
+  <component name="RunManager" selected="Application.Ex11ReverseTheArray">
     <configuration name="Ex10MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex10MultiplicationTable" />
       <module name="JavaArray" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6FindingAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex6FindingAverage" />
+    <configuration name="Ex11ReverseTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex11ReverseTheArray" />
       <module name="JavaArray" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11ReverseTheArray" />
         <item itemvalue="Application.Ex10MultiplicationTable" />
         <item itemvalue="Application.Ex9CopyArray" />
         <item itemvalue="Application.Ex8RemoveDuplicateValues" />
         <item itemvalue="Application.Ex7OddNumbers" />
-        <item itemvalue="Application.Ex6FindingAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701081801730</updated>
       <workItem from="1701081802723" duration="10074000" />
-      <workItem from="1701161888235" duration="10994000" />
+      <workItem from="1701161888235" duration="13576000" />
     </task>
     <servers />
   </component>
