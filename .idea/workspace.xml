@@ -46,20 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex6FindingAverage">
-    <configuration name="Ex3StringSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex3StringSort" />
-      <module name="JavaArray" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.lexicon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex7OddNumbers">
     <configuration name="Ex4ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex4ArrayCopy" />
       <module name="JavaArray" />
@@ -99,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex7OddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex7OddNumbers" />
+      <module name="JavaArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="newAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.newAvg" />
       <module name="JavaArray" />
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7OddNumbers" />
         <item itemvalue="Application.Ex6FindingAverage" />
         <item itemvalue="Application.newAvg" />
         <item itemvalue="Application.Ex5MultiDimensionArray" />
         <item itemvalue="Application.Ex4ArrayCopy" />
-        <item itemvalue="Application.Ex3StringSort" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701081801730</updated>
       <workItem from="1701081802723" duration="10074000" />
-      <workItem from="1701161888235" duration="2036000" />
+      <workItem from="1701161888235" duration="3052000" />
     </task>
     <servers />
   </component>
@@ -149,6 +149,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/se/lexicon/Ex7OddNumbers.java</url>
+          <line>3</line>
+          <properties class="se.lexicon.Ex7OddNumbers" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
