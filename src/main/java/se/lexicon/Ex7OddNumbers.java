@@ -1,5 +1,7 @@
 package se.lexicon;
 
+import java.util.Arrays;
+
 public class Ex7OddNumbers {
     public static void main(String[] args){
         int[] intArray={1, 2, 4, 7, 9, 12, 43, 66, 27};
@@ -8,6 +10,7 @@ public class Ex7OddNumbers {
         {
             System.out.print(num+"\t");
         }
+        //System.out.println(Arrays.toString(intArray));
         System.out.println("\n Odd Array :");
         findOddNumber(intArray);
 
@@ -16,7 +19,6 @@ public class Ex7OddNumbers {
         for (int num:arrayToFind){
                 if ((num%2)==1)
                 System.out.print(num+"\t");
-
         }
        }
 }
