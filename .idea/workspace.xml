@@ -46,7 +46,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex9CopyArray">
+  <component name="RunManager" selected="Application.Ex10MultiplicationTable">
+    <configuration name="Ex10MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex10MultiplicationTable" />
+      <module name="JavaArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex6FindingAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex6FindingAverage" />
       <module name="JavaArray" />
@@ -99,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="newAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.lexicon.newAvg" />
-      <module name="JavaArray" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.lexicon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex10MultiplicationTable" />
         <item itemvalue="Application.Ex9CopyArray" />
         <item itemvalue="Application.Ex8RemoveDuplicateValues" />
         <item itemvalue="Application.Ex7OddNumbers" />
         <item itemvalue="Application.Ex6FindingAverage" />
-        <item itemvalue="Application.newAvg" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701081801730</updated>
       <workItem from="1701081802723" duration="10074000" />
-      <workItem from="1701161888235" duration="9695000" />
+      <workItem from="1701161888235" duration="10994000" />
     </task>
     <servers />
   </component>
