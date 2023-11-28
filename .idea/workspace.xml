@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="21ae7b44-3299-464c-8158-c235b050ebd8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/lexicon/Ex7OddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/Ex7OddNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex8RemoveDuplicateValues">
-    <configuration name="Ex5MultiDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex5MultiDimensionArray" />
-      <module name="JavaArray" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.lexicon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex9CopyArray">
     <configuration name="Ex6FindingAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex6FindingAverage" />
       <module name="JavaArray" />
@@ -100,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex9CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.lexicon.Ex9CopyArray" />
+      <module name="JavaArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="newAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.newAvg" />
       <module name="JavaArray" />
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex9CopyArray" />
         <item itemvalue="Application.Ex8RemoveDuplicateValues" />
         <item itemvalue="Application.Ex7OddNumbers" />
         <item itemvalue="Application.Ex6FindingAverage" />
         <item itemvalue="Application.newAvg" />
-        <item itemvalue="Application.Ex5MultiDimensionArray" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701081801730</updated>
       <workItem from="1701081802723" duration="10074000" />
-      <workItem from="1701161888235" duration="7164000" />
+      <workItem from="1701161888235" duration="9695000" />
     </task>
     <servers />
   </component>
@@ -168,6 +167,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/se/lexicon/Ex9CopyArray.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
