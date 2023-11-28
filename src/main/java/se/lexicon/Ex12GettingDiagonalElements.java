@@ -14,10 +14,7 @@ public class Ex12GettingDiagonalElements {
     public static void printDiagonalElements(int[][] array){
         int rows= array.length;;
         int cols=array[0].length;
-        if (rows!=cols){
-            System.out.println("Sorry..!!! Given array is not square.Diagonal elements cannot be determined");
-            return;
-        }
+
         for(int i=0;i<rows;i++){
             System.out.print(array[i][i]+" ");
         }
